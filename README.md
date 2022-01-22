@@ -6,7 +6,7 @@ but i just touch it🐾
 </p>
 <img src='socialmedia.png'/>
 
-# **💻 my journey in the world of technology**
+# **💻 my journey in technology**
 - the first time i entered the world of technology was when i played the Hay Day game and (for those who know) there was an environment or association in it, i still remember there i entered an environment called Gemaz there i was pressed by all the members and that's where i was determined to taking the data belonging to the members of the Gemaz environment, previously i saw the TikTok video how to looks like hacking people, and i tried it, it turned out to be true, i still remember at that time using the command prompt, the steps were to type color a enter and type tree C :/ enter, that's where i entered the world of technology, i got to know more about technology
 
 - i realized that what i was doing with the command prompt was not hacking, so i turned to looking for hacking techniques not just looking like hacker, but it was very rare to find 1 hacking data tutorial, so i looked for more tutorials that were close to hacking data, there i found data science which i think is similar to hacking data but i understand now that data science is not hacking but data processing, at that time i was looking for any tools to be used as data science and one of them was python
