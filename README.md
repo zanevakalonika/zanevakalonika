@@ -4,10 +4,7 @@
 just sitting in front of my computer, i have touched several fields in technology, namely UI design, HTML/CSS, PHP, and Python, look at all of that, i can become a full stack and complete developer, 
 but i just touch it🐾
 </p>
-<img src='Youtube.png' width='50' height='50'/>
-<img src='Twitter.png' width='50' height='50'/>
-<img src='Instagram.png' width='50' height='50'/>
-<img src='Linkedin.png' width='50' height='50'/>
+<img src='socialmedia.png'/>
 
 # **💻 my journey in the world of technology**
 <p align='center'>
