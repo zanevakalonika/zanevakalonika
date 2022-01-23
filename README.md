@@ -1,4 +1,4 @@
-<img src='myphoto.png' align='right'/>
+<img src='myphoto.png' align='left'/>
 <p>
 👋 hi, everyone my name is Zaneva Kalonika Handoko, you can call me Neva, i was born in Surakarta, 7th July 2009, now i'm 12 years old, my hobby is still ndak ada, i've been menyelami technology for 4 months, idk what i'm doing now, 
 just sitting in front of my computer, i have touched several fields in technology, namely UI design, HTML/CSS, PHP, and Python, look at all of that, i can become a full stack and complete developer, 
